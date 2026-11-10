@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bali Driver Tour",
+  "description": "fokus activity bali, tidak ada masalah folder public, hero section di bagusin biar perfect",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
